@@ -1,1 +1,3 @@
-# This is a gcp-devops sample repo.
+# Docker Flask Application.
+
+This is a sample flask application.
